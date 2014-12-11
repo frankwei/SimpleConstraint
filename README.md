@@ -65,7 +65,7 @@ If you're looking for something with more features, try [Masonry](https://github
 
 Installation
 ============
-Just drag and drop SimpleConstraint folder into your project, and you're good to go.
+Just drag and drop the SimpleConstraint folder into your project, and you're good to go.
 
 License
 =======
